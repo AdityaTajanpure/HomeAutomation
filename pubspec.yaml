@@ -1,0 +1,23 @@
+name: home_automation
+description: Home Automation App.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  provider: ^3.2.0
+  flutter_bluetooth_serial: ^0.2.2
+  local_auth: ^0.6.2+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
