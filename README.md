@@ -1,4 +1,4 @@
-# smarthome-slider
+# Home Automation
 
 Home Automation App in Flutter to work with Arduino and Bluetooth HC-05
 
